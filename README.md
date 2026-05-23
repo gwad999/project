@@ -1,4 +1,4 @@
-# 🛡️ PhishShield — AI-Powered Phishing Website Detection System
+# 🛡️ PhishShield — Phishing Website Detection System
 
 A machine learning cybersecurity project that detects phishing websites in real time using a Random Forest classifier trained on 30+ structural URL features.
 
